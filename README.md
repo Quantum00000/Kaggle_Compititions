@@ -1,4 +1,2 @@
 # Kaggle_Compititions
-Classification
-Used torch neural network 
-Scored 70% of accuracy.
+Practising M.L and D.L with Kaggle Compititions
